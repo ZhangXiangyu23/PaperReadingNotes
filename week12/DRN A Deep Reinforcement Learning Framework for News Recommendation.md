@@ -90,9 +90,7 @@
 
 ![image-20220323175319216](DRN A Deep Reinforcement Learning Framework for News Recommendation.assets/image-20220323175319216.png)
 
-推荐多样性
-
-##### 评价指标：
+##### 推荐多样性评价指标：
 
 ![image-20220323175749181](DRN A Deep Reinforcement Learning Framework for News Recommendation.assets/image-20220323175749181.png)
 
